@@ -1,0 +1,12 @@
+::1 - - [06/Oct/2021:01:20:27 +0000] "GET /fgh HTTP/1.1" 404 142
+::1 - - [06/Oct/2021:01:20:30 +0000] "GET / HTTP/1.1" 304 -
+::1 - - [06/Oct/2021:02:56:32 +0000] "GET /api/data HTTP/1.1" 404 147
+::1 - - [06/Oct/2021:02:57:18 +0000] "GET /api/data HTTP/1.1" 404 147
+::1 - - [06/Oct/2021:02:59:00 +0000] "GET /api/data HTTP/1.1" 404 147
+::1 - - [06/Oct/2021:02:59:24 +0000] "GET /cats HTTP/1.1" 200 4
+::1 - - [06/Oct/2021:02:59:27 +0000] "GET /pensioners/newloan HTTP/1.1" 404 157
+::1 - - [06/Oct/2021:02:59:31 +0000] "GET /pensioners/newloan HTTP/1.1" 404 157
+::1 - - [06/Oct/2021:02:59:33 +0000] "GET /pensioners/newloan HTTP/1.1" 404 157
+::1 - - [06/Oct/2021:02:59:33 +0000] "GET /pensioners/newloan HTTP/1.1" 404 157
+::1 - - [06/Oct/2021:02:59:33 +0000] "GET /pensioners/newloan HTTP/1.1" 404 157
+::1 - - [06/Oct/2021:03:00:23 +0000] "GET / HTTP/1.1" 200 2
