@@ -33,8 +33,8 @@ app.get('/cats', (req, res) => {
 
 // require('./models/SampleModel');
 // routes`
-// require('./Routes/SampleRoute')(app);
-// require('./Routes/NewloanRoute')(app);
+// require('./routes/SampleRoute')(app);
+// require('./routes/NewloanRoute')(app);
 
 const PORT = process.env.PORT || 8083;
 app.listen(PORT, () => {
